@@ -1,0 +1,63 @@
+body{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+
+
+.container1 {
+background-image: url("../apple-pie/images/apple.pie.jpg");
+display:0 auto;
+margin:auto;
+background-size: cover;
+padding: 250px;
+height: max-content;
+width: max-content;
+padding-bottom: 300px;
+padding-left: 400px;
+padding-right: 400px;
+margin-bottom: 100px;
+}
+h1 {
+  color:aliceblue;
+  font-weight: 250;
+font-size: 50px;
+  
+}
+p {
+text-align: center;
+font-weight: 100;
+}
+.img1 {
+  margin-left:14cm;
+  width: 10cm;
+  margin-bottom:0
+}
+hr {
+  width: 550px;
+  border:1px solid gray;
+  margin-bottom: 100px;
+  
+}
+h2 {
+  text-align: center;
+  margin-right: 450px;
+  font-weight: 250;
+}
+ul, ol  {
+  margin-left:400px;
+  list-style-type:none;
+  font-weight: 100;
+  margin-bottom: 80px;
+}
+.img2 {
+  margin-left:15cm;
+  width: 300px;
+  margin-bottom:0
+}
+ol {
+  list-style-type:decimal;
+}
+
